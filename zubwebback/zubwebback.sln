@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zubwebback", "zubwebback\zubwebback.csproj", "{4CD7C67E-80D8-463A-8DA8-4B60DDD93D8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CD7C67E-80D8-463A-8DA8-4B60DDD93D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD7C67E-80D8-463A-8DA8-4B60DDD93D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD7C67E-80D8-463A-8DA8-4B60DDD93D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD7C67E-80D8-463A-8DA8-4B60DDD93D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92B2F15D-8527-4098-B3E5-1C7EED00E474}
+	EndGlobalSection
+EndGlobal
